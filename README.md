@@ -24,5 +24,5 @@ This project aims to clean and transform a layoffs dataset using SQL. The raw da
    - Identified unusually high or low layoff numbers that could skew analysis.
 
 ## Files in the Repository
-- `data_cleaning.sql`: Contains all the SQL queries used to clean and transform the data.
+- `Data Cleaning and Transformation in SQL.sql`: Contains all the SQL queries used to clean and transform the data.
 - `layoffs_data.csv`: The original raw dataset used for the project.
