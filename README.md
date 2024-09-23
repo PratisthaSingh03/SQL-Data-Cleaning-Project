@@ -1,5 +1,5 @@
 # SQL-Data-Cleaning-Project
-This repository contains SQL scripts for cleaning and transforming a layoffs dataset. The project addresses data quality issues such as missing values, duplicate records, inconsistent formats, and outliers. Key steps include removing duplicates, handling missing data, standardizing company names, and correcting data types.
+This repository contains SQL scripts for cleaning and transforming layoffs dataset of 2024. The project addresses data quality issues such as missing values, duplicate records, inconsistent formats, and outliers. Key steps include removing duplicates, handling missing data, standardizing company names, and correcting data types.
 
 # SQL Layoffs Data Cleaning Project
 
@@ -7,7 +7,7 @@ This repository contains SQL scripts for cleaning and transforming a layoffs dat
 This project aims to clean and transform a layoffs dataset using SQL. The raw dataset contains information on layoffs across different sectors, including dates, companies, and other related attributes. The data cleaning process resolves issues such as missing values, duplicates, and inconsistent formats, preparing the data for further analysis and visualization.
 
 ## Dataset Description
-- **Name**: Layoffs Data
+- **Name**: Layoffs Data 2024
 - **Fields**: Company, Location, Industry, Country
 - **Source**: Kaggle (https://www.kaggle.com/datasets/theakhilb/layoffs-data-2022/data)
 
